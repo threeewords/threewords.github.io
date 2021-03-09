@@ -1,0 +1,76 @@
+
+.m-md-3{
+    padding: 2rem!important;
+}
+.navbar{
+    position: sticky;
+}
+.text-center{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.lead{
+    margin-top: 16px;
+}
+main {
+    width: 100%;
+
+
+}
+pictur{
+    display: flex;
+
+
+}
+.img-america img {
+    width: 400px;
+    padding-bottom: 4%;
+}
+
+.img-mos img {
+    width: 400px;
+    padding-bottom: 4%;
+}
+
+p {
+    font-size: 1.25rem;
+    font-weight: 300;
+
+}
+.radi{
+    display: flex;
+    width: 25%;
+    border-radius:15%;
+    
+}
+
+bg-dark{
+    width: 100%;
+}
+.img-link{
+    width: 45px;
+} 
+.link{
+    width: 100%;
+}
+footer .navbar-brand{
+    font-size: 12px;
+}
+.jumbotron{
+    background: white;
+    margin-bottom: 0;
+}
+
+.p-md-3{
+    padding: 20px!important;
+}
+
+.b-pos{
+	margin-bottom: 50%;
+	text-align-last: center;
+}
+
+.h_r{
+	color:seashell;
+}
